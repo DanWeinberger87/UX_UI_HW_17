@@ -22,6 +22,11 @@ ul{
     padding: 25px;
 }
 
+.headshot {
+    height: 250px;
+    width: 250px;
+}
+
 .content{
 width: 500px;
 margin: 0 auto;
@@ -35,3 +40,4 @@ footer ul {
     display: inline-block;
     vertical-align:top;
 }
+
